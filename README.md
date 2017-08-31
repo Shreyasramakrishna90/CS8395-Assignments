@@ -1,1 +1,1 @@
-# CS8395-Assignments
+Contains the assignments for the course CS8395
